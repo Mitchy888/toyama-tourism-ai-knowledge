@@ -1,0 +1,2 @@
+# toyama-tourism-ai-knowledge
+富山県観光に関する現地の暗黙知をAI-readableな形で整理するためのナレッジのプロトタイプ
